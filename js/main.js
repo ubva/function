@@ -12,22 +12,22 @@ btn.addEventListener('click' , function(){
     function varBtn (p){
         return p
     }
-   itemVar1.textContent = (inpValue / varBtn(3.6)).toFixed(0)
+   itemVar1.textContent = (inpValue / varBtn(3.6))
 
    function varBtn (b){
     return b
     }
-    itemVar2.textContent = (inpValue / varBtn(20.1)).toFixed(0)
+    itemVar2.textContent = (inpValue / varBtn(20.1))
 
     function varBtn (c){
         return c
     }
-    itemVar3.textContent = (inpValue / varBtn(70)).toFixed(0)
+    itemVar3.textContent = (inpValue / varBtn(70))
 
     function varBtn (p){
         return p
     }
-    itemVar4.textContent = (inpValue / varBtn(800)).toFixed(2)
+    itemVar4.textContent = (inpValue / varBtn(800))
     }
     )
 
