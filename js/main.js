@@ -27,7 +27,7 @@ btn.addEventListener('click' , function(){
     function varBtn (p){
         return p
     }
-    itemVar4.textContent = (inpValue / varBtn(800)).toFixed(0)
+    itemVar4.textContent = (inpValue / varBtn(800)).toFixed(2)
     }
     )
 
